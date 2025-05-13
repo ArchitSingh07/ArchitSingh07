@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🌱 I’m currently learning **Pandas, HTML/CSS, JS**
+- 🌱 I’m a Machine Learning and AI enthusiast, currently honing my skills in Data Structures and Algorithms.
 
 - 📫 How to reach me **singharchit0411@gmail.com**
 
